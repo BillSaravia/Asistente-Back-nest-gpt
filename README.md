@@ -4,7 +4,7 @@ Este proyecto consiste en un sistema de asistente virtual desarrollado en React 
 
 ## Parte Frontend
 
-Este proyecto de la parte frontend está desarrollado en React. Puedes encontrar más detalles y contribuir al código en el repositorio correspondiente:
+Este proyecto de la parte frontend está desarrollado en React. Puedes encontrar más detalles del código en el repositorio correspondiente:
 
 ### Enlace al Repositorio Frontend
 
